@@ -32,11 +32,11 @@ How much would people like to keep in touch outside of the biweekly meetings? Us
 
 
 Week 2: Anatomy of information
-* How do the digital tools we use fit into a longer history of media and information management?
+How do the digital tools we use fit into a longer history of media and information management?
 
 Week 3: Beautiful websites in the clouds
-* How does the internet work?
-* What makes a website beautiful, interactive, etc.?
+How does the internet work?
+What makes a website beautiful, interactive, etc.?
 
 Week 4: Web design
 Workshop: start to build Reclaim sites
@@ -64,10 +64,10 @@ Photoshop; others?
 Week 10: 3D printing
 A workshop on 3D printing monuments
 
-Week 11: Disability and access
-What makes a website or project accessible, and for whom?
-Alt-text for Monument Lab images
-Accessible data gathering protocols?
+Week 11: Disability and access  
+What makes a website or project accessible, and for whom?  
+Alt-text for Monument Lab images  
+Accessible data gathering protocols?  
 
 Week 12: Scholarly project management
 Methods for project management
