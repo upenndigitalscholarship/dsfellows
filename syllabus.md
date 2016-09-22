@@ -1,6 +1,6 @@
-## Syllabus draft
+# Syllabus draft
 
-# Fall semester
+## Fall semester
 
 Week 1 (9/22): Intro
 
@@ -31,7 +31,7 @@ Week 6 (12/1): Metadata, continued
 + Omeka exhibits from Monument Lab data? What does it mean to work with metadata on monuments that don’t exist (yet)?
 
 
-# Spring semester
+## Spring semester
 
 
 Week 7: Text analysis
