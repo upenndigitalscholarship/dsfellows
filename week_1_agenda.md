@@ -20,5 +20,6 @@
 + How much would people like to keep in touch outside of the biweekly meetings? Use Slack or similar platform? Other ideas?
 
 # Intro to Markdown
++ What is your word processor hiding? See: in MS Word, View -> Reveal Formatting
 + Markdown cheat sheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 + Practice Markdown: http://dillinger.io/
