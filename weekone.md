@@ -27,7 +27,8 @@ How much would people like to keep in touch outside of the biweekly meetings? Us
 
 
 
-Syllabus draft
+## Syllabus draft
+
 
 
 Week 2: Anatomy of information
