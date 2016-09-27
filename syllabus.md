@@ -14,6 +14,8 @@ Week 3 (10/27): Anatomy of information
 + How do the digital tools we use fit into a longer history of media and information management?
 + Jon Pollock shows us around special collections
 + History of information management: 17th century Bible concordance, Samuel Johnson's dictionary, Sir Charles Grandison indices
++ Maps of Philadelphia-- William Penn to Google Maps
++ What we lose and gain from the digital
 
 Week 4 (10/27): Web design, continued
 + Intro to Git
