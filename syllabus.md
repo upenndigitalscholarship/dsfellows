@@ -17,21 +17,20 @@ Week 3 (10/27): Anatomy of information
 + Maps of Philadelphia-- William Penn to Google Maps
 + What we lose and gain from the digital
 
-Week 4 (10/27): Web design, continued
+Week 4 (11/10): Web design, continued
 + Intro to Git
 + Intro to Jekyll
 
-Week 5 (11/10): Data management
+Week 5 (12/1): Data management
 + Looking at raw data from Monument Lab, how could we organize it? What other data might be worth collecting?
 + What is metadata and what can it do for you?
 + How to clean data with Openrefine and/or Microsoft Excel
 
 
-Week 6 (12/1): Metadata, continued
-+ Omeka exhibits from Monument Lab data? What does it mean to work with metadata on monuments that don’t exist (yet)?
-
-
 ## Spring semester
+
+Week 6: Metadata, continued
++ Omeka exhibits from Monument Lab data? What does it mean to work with metadata on monuments that don’t exist (yet)?
 
 
 Week 7: Text analysis
