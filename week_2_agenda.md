@@ -2,9 +2,11 @@
 
 + Make sure everyone’s been added to our repo, accepted invitation
 + Basic explanation of what Github does; we'll go into more depth in session 3 or 4
-+ But demonstrate committing changes while changing HTML/CSS file - using command line? App? Both?
++ But demonstrate committing changes while changing HTML/CSS file - _using command line? App? Both?_
 
 # Internet play
+
++ _Plan for this?_
 
 # Download a text editor
 
@@ -17,12 +19,12 @@
 + Basic HTML and CSS syntax
 + Can you change the color? Add items to the lists? Link to a different page? Include a different image?
 + Command-slash will comment highlighted text out in Atom
-+ What happens when you add in a link to a stylesheet?
++ _What happens when you add in a link to a stylesheet? (Is that how we're doing this?)_
 + Make some basic change to stylesheet (make a list then define a list class?)
 
 # A more complicated static site
 
-+ Look at an html5up site template with multiple pages (Forty?)
++ Look at an html5up site template with multiple pages _(Forty?)_
 + Basic overview of what files are included: index.html, main.css, image folder, etc.
 + Find the place in index.html that creates the menu. What if you want to change what appears on the menu? Try it: only the front page will change, not the others, unless you change those by hand
 + This is the type of problem we'll eventually be able to solve with Jekyll
