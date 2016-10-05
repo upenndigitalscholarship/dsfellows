@@ -12,8 +12,9 @@
 
 # The most basic possible website
 
-+ Download zip file from Github: [link]
++ Download zip file from Github: html_css_examples.zip
 + Example of simple, one-file HTML/CSS static site; open in browser
++ Basic HTML and CSS syntax
 + Can you change the color? Add items to the lists? Link to a different page? Include a different image?
 + Command-slash will comment highlighted text out in Atom
 + What happens when you add in a link to a stylesheet?
@@ -22,9 +23,9 @@
 # A more complicated static site
 
 + Look at an html5up site template with multiple pages (Forty?)
-+ Basic overview of what files are included: index.html, style sheet, etc.
-+ _Basic HTML and CSS syntax?_
-+ What if you want to add (say) the same menu to each page? IT'S HARD
++ Basic overview of what files are included: index.html, main.css, image folder, etc.
++ Find the place in index.html that creates the menu. What if you want to change what appears on the menu? Try it: only the front page will change, not the others, unless you change those by hand
++ This is the type of problem we'll eventually be able to solve with Jekyll
 
 # Static vs. dynamic website
 
