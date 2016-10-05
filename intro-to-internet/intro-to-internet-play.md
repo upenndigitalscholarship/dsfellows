@@ -23,13 +23,13 @@ It’s an html page -- great! Off you go!!
 **Browser:** Got it. Wait! It says here that I need a couple of other files -- would you run and grab these css and javascript files for me
 **Computer:** Yep. I’ll see what I can do. I’ll assume they’re on the computer I just came from, unless they say otherwise in the address. What's the address on those?
 
-**Browser:** Ok. I need 2. This one says "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" In the folder you just came from, there should be a folder called "css." In there, it says I need a file called "main.css" Can you run and grab that?
+**Browser:** Ok. I need 2. Can you run and grab those?
 
 **Agent:** No problem at all. 
 
 *[begins trip over again - brings back css file]*
 
-Here it is!
+Here they are!
 
 **Browser:** Great! In that mini-millisecond I started loading the page, but now I'll make it look nice. *[continues loading page]* Got it all! Thanks!!
 **Internet:** Any time, friend!
