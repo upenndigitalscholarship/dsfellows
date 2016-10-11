@@ -51,17 +51,40 @@ Here they are!
 
 ## Scene Two, where Laurie gets a page made by a database
 
-In this scene, everything is roughly the same, except Laurie runs into some errors along the way. Perhaps the DNS server can't find the page and issues domain will not resolve error (try going to http://www.laurieallen.asdfasdf/ on chrome)
+**You** Hey, Browser, I want to go to upenndigitalscholarship.org/bananas
 
-And then you find the right host, but there's no such page in the directory (404 error (maybe a piece of paper given out by the server player if you ask for a page they don't have))
+**Browser** You got it! I'll check to see if I can find that.
 
+*[goes through computer hooked up to internet]*
 
+**Agent** Hey, DNS, I'm looking for upenndigitalscholarship.org, could you tell me where to go?
 
-Then, you go to the directory, and go through the potential files (index.html, default.html).
+**DNS** Right this way!
 
+*[to Server]* **Agent** Hey Server, I'm looking for a page called "Bananas" in this domain, can you help me out?
 
+**Server** *[rifles through file]* *[confused]* Ummmm... I don't think I have anything like that here. I'm going to have to give you one of these.
 
-Maybe another link takes you back to the site to get a page from a database. There the person playing the server has instructions inside the main folder instead of actual pages (or other folders). So, the instructions say to take the URL the person was looking for and go to that table in the database, copy the template from that table, and then go to other tables to fill out the data in the template with things like "header" "page content" "customized stuff" etc.
+*[hands AGENT a post-it.]*
+
+**Agent** 404 Page not found?? Alright, guess better let Laurie know. 
+
+**You** Aww drat, looks like there isn't a page with that URL. Well let me try upenndigitalscholarship.org/admin
+
+**Browser** Alright!
+
+**Agent** Hey DNS, looking for upenndigitalscholarship.org again
+
+**DNS** You know where to go!
+
+*[to server]* **Agent** Hey server, me again. Looking for upenndigitalscholarship.org/admin this time.
+
+**Server** *[goes through file again]* Excuse me, looks like you're not allowed on this page. Admin only. I'll have to give you one of these. *[hands AGENT a post-it]*
+
+**Agent** Awww man, 403 Forbidden?? Laurie's going to be so bummed. 
+
+**You** Guess I can't access that page either! Oh well, better luck next time. 
+
 
 
 
