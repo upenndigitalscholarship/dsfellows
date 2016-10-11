@@ -19,7 +19,12 @@
 + Example of simple, one-file HTML/CSS static site; open in browser
 + Basic HTML syntax: can you add items to a lists? Link to a different page? Include a different image?
 + Command-slash will comment highlighted text out in Atom; practice that
+
+# Stylesheet
+
 + There's a link to a stylesheet commented out; comment it back in. What changed?
++ Look at stylesheet
++ Basic CSS syntax
 + Can you change the background color on the stylesheet?
 + What happens when you comment the rest of the items in, one at a time?
 + Add and define a class
