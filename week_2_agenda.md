@@ -27,7 +27,7 @@
 
 # A more complicated static site
 
-+ Look at Forty, an html5up site template with multiple pages
++ Look at [Forty](https://html5up.net/forty) (included in the zip file), an [html5up](https://html5up.net/) site template with multiple pages
 + Project this; people can download if they want
 + Basic overview of what files are included: index.html, main.css, image folder, etc.
 + Find the place in index.html that creates the menu. What if you want to change what appears on the menu? Try it: only the front page will change, not the others, unless you change those by hand
