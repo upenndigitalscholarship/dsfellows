@@ -2,11 +2,11 @@
 
 + Make sure everyone’s been added to our repo, accepted invitation
 + Basic explanation of what Github does; we'll go into more depth in session 3 or 4
-+ Show repo commit history (use syllabus?)
++ Show example of repo commit history on syllabus file
 
 # Internet play
 
-+ _Plan for this?_
++ Scene 1
 
 # Download a text editor
 
@@ -15,7 +15,7 @@
 
 # The most basic possible website
 
-+ Download zip file from Github: html_css_examples.zip
++ Download zip file from Github: [html_css_examples.zip](https://github.com/upenndigitalscholarship/dsfellows/blob/master/html_css_examples.zip)
 + Example of simple, one-file HTML/CSS static site; open in browser
 + Basic HTML syntax: can you add items to a lists? Link to a different page? Include a different image?
 + Command-slash will comment highlighted text out in Atom; practice that
@@ -27,7 +27,7 @@
 
 # A more complicated static site
 
-+ Look at an html5up site template with multiple pages _(Forty?)_
++ Look at Forty, an html5up site template with multiple pages
 + Project this; people can download if they want
 + Basic overview of what files are included: index.html, main.css, image folder, etc.
 + Find the place in index.html that creates the menu. What if you want to change what appears on the menu? Try it: only the front page will change, not the others, unless you change those by hand
@@ -38,8 +38,12 @@
 + Laurie shows one of the Penn DS Omeka sites
 + Pieces of each page are stored separately and are created (and compiled) at the time when you ask for them
 
+# Internet play
+
++ Scene 2
+
 # Reclaim
 
 + Everyone registers a domain name
 + Look at file manager: you can drop in any of the files we were just working with and have a basic website
-+ Everyone downloads an html5up template and experiments with customizing one thing
++ Everyone downloads an [html5up](https://html5up.net/) template and experiments with customizing one thing
