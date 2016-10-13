@@ -27,7 +27,8 @@
 + Basic CSS syntax
 + Can you change the background color on the stylesheet?
 + What happens when you comment the rest of the items in, one at a time?
-+ Add and define a class
++ Why are we seeing two different fonts on the page? What can you do about that?
++ Add and define a class, then use that class somewhere in the html
 + Try linking to [Bootstrap](http://getbootstrap.com/getting-started/) in the stylesheet
 + Add an element from Bootstrap
 
