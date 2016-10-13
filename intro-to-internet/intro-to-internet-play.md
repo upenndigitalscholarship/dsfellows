@@ -83,9 +83,9 @@ Here they are!
 
 **Agent** Awww man, 403 Forbidden?? Laurie's going to be so bummed. 
 
-**You** Guess I can't access that page either! Oh well, better luck next time. I wonder if http://upenndigitalscholarship.org/omeka-example/ would be easier to access?
+**You** Guess I can't access that page either! Oh well, better luck next time. I wonder if http://upenndigitalscholarship.org/phillyplans/ would be easier to access?
 
-**Agent** Server, do you have anything under http://upenndigitalscholarship.org/omeka-example/?
+**Agent** Server, do you have anything under http://upenndigitalscholarship.org/phillyplans/?
 
 **Server** This might get a little complicated. I'll need to consult my database for instructions on how to build your page. *[looks through folder]* All right, here's a template. *[places a piece of paper with a website layout drawn on it on the table]* And here's some content to fill it in. *[puts header, menu, and page content into the template]*
 
