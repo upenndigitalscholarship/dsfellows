@@ -6,7 +6,7 @@
 
 # Internet play
 
-+ Scene 1
++ [Scene 1](https://github.com/upenndigitalscholarship/dsfellows/blob/master/intro-to-internet/intro-to-internet-play.md)
 
 # Download a text editor
 
@@ -47,7 +47,7 @@
 
 # Internet play
 
-+ Scene 2
++ [Scene 2](https://github.com/upenndigitalscholarship/dsfellows/blob/master/intro-to-internet/intro-to-internet-play.md)
 
 # Reclaim
 
