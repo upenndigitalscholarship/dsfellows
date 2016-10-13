@@ -1,6 +1,6 @@
 ## Scene One where Laurie gets a static page
 
-**You:** Hey Browser. Show me this webpage. (http://www.upenndigitalscholarship.org/internet/learning.html)
+**Laurie:** Hey Browser. Show me this webpage. (http://www.upenndigitalscholarship.org/internet/learning.html)
 
 **Browser:** - Hey Computer. Can I get on the internet? We gotta show Laurie this webpage.
 
@@ -29,7 +29,7 @@ It’s an html page -- great! Off you go!!
 
 **Agent** – *[taking learning.html]* Come on, buddy! I’ll show you the way back to Laurie’s computer.
 
-**Laurie’s computer -** You’re back! Thanks! Hey browser, here you go. This html page is coming through.
+**Computer -** You’re back! Thanks! Hey browser, here you go. This html page is coming through.
 
 **Browser:** Got it. Wait! It says here that I need a couple of other files -- would you run and grab these css and javascript files for me
 
@@ -45,13 +45,13 @@ Here they are!
 
 **Browser:** Great! In that mini-millisecond I started loading the page, but now I'll make it look nice. *[continues loading page]* Got it all! Thanks!!
 
-**Internet:** Any time, friend!
+**Computer:** Any time, friend!
 
 
 
 ## Scene Two, where Laurie gets a page made by a database
 
-**You** Hey, Browser, I want to go to upenndigitalscholarship.org/bananas
+**Laurie** Hey, Browser, I want to go to upenndigitalscholarship.org/bananas
 
 **Browser** You got it! I'll check to see if I can find that.
 
@@ -69,7 +69,7 @@ Here they are!
 
 **Agent** 404 Page not found?? Alright, guess better let Laurie know. 
 
-**You** Aww drat, looks like there isn't a page with that URL. Well let me try upenndigitalscholarship.org/admin
+**Laurie** Aww drat, looks like there isn't a page with that URL. Well let me try upenndigitalscholarship.org/admin
 
 **Browser** Alright!
 
@@ -83,7 +83,7 @@ Here they are!
 
 **Agent** Awww man, 403 Forbidden?? Laurie's going to be so bummed. 
 
-**You** Guess I can't access that page either! Oh well, better luck next time. I wonder if http://upenndigitalscholarship.org/phillyplans/ would be easier to access?
+**Laurie** Guess I can't access that page either! Oh well, better luck next time. I wonder if http://upenndigitalscholarship.org/phillyplans/ would be easier to access?
 
 **Agent** Server, do you have anything under http://upenndigitalscholarship.org/phillyplans/?
 
