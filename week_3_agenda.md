@@ -30,7 +30,7 @@
 ## Anatomizing the language, indexing the novel
 
 + *A Dictionary of the English Language* (1755): one of the first comprehensive English-language dictionaries, prepared by Samuel Johnson and a group of assistants between 1746 and 1755
-+ *Sir Charles Grandison* (1754), third (?) edition, by Samuel Richardson: epistolary novel by Samuel Richardson
++ *Sir Charles Grandison* (1754), third (?) edition: epistolary novel by Samuel Richardson
 + Richardson was one of the only contemporary novelists extensively quoted in Johnson's dictionary
 + Looking at *Sir Charles Grandison*, what are some ways you might read through? Where do the footnotes direct you?
 + What do the tables/indices at the back do?
