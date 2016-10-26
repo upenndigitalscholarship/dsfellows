@@ -60,8 +60,11 @@ Is there anything you can do with the print version that you couldn't with a dig
 
 # Set up Reclaim domains
 
++ What is the Cpanel? Applications? File manager?
 + Make a landing page
 + What happens when you drop in our HTML/CSS files from last week?
++ Can you host an image on your site? What URL does it show up under?
++ (More information on Reclaim basics [here](https://community.reclaimhosting.com/t/understanding-folder-structures-in-cpanel/295))
 
 # Group project
 
