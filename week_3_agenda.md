@@ -64,3 +64,6 @@ Is there anything you can do with the print version that you couldn't with a dig
 + What happens when you drop in our HTML/CSS files from last week?
 
 # Group project
+
++ Data in [CSV form](https://github.com/HCDigitalScholarship/Monument-Lab/blob/master/monument_lab_master.csv)
++ Data [mapped and organized by type and topic](http://www.monumentlab.com/research/)
