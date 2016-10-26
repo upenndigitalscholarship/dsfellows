@@ -12,10 +12,11 @@ Week 2 (10/13): Beautiful websites in the clouds
 
 Week 3 (10/27): Anatomy of information
 + How do the digital tools we use fit into a longer history of media and information management?
-+ Jon Pollock shows us around special collections
++ Jon Pollack shows us around special collections
 + History of information management: 17th century Bible concordance, Samuel Johnson's dictionary, Sir Charles Grandison indices
 + Maps of Philadelphia-- William Penn to Google Maps
 + What we lose and gain from the digital
++ Set up Reclaim domains (moved from 10/13)
 
 Week 4 (11/10): Web design, continued
 + Intro to Git
