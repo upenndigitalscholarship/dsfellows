@@ -72,7 +72,7 @@ Is there anything you can do with the print version that you couldn't with a dig
 + Data [mapped and organized by type and topic](http://www.monumentlab.com/research/)
 + Images of the proposals on [Flickr](https://www.flickr.com/photos/132387453@N08/albums/72157652636709478/with/17860011161/)
 
-#Maps and Monuments-- how we immortalize human expression
+#Maps and Monuments-- how we conceputalize city and expression
 
 ##Key Concepts
 
