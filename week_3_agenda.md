@@ -16,13 +16,15 @@
 
 ### Geneva Bible, bound with Robert Herrey's concordance (1581)
 
++ Translation and edition of the Bible predating the King James by 51 years; one of the first mass-produced printed Bibles to be made available to the general public
 + This is one text Stallybrass uses as an example of how early modern Bibles made new forms of discontinuous reading possible
++ Open to a random page: what kind of information do we get, besides what we might think of as the "text" of the Bible?
 + Looking at the title page: why advertise the presence of a concordance? What is a concordance, and what does it do for the reader? Why two concordances?
   + (Stallybrass: first alphabet proliferates meanings, second controls against that proliferation; "anti-Catholic slant". see entry for Abominable)
-+ What are some ways you could read through this text?
++ What types of reading do these paratexts promote?
 + What can you do with this text that you couldn't do with a scroll?
 + Evidence of readers' interactions with it (marginalia on p. 179; other traces?)
-+ If you were to create a digitized version of this text, how would you do it?
++ If you were to create a digitized version of this text, how would you do it? or: does the textual apparatus bear any resemblance to digital methods of navigating through texts you've used?
   + Arguably, first DH project was [Father Roberto Busa's](http://stephenramsay.us/2011/08/11/father-roberto-busa/) creation of a computer-generated [concordance](http://www.corpusthomisticum.org/it/index.age) to the works of Thomas Aquinas
 + Skeumorphism:
 
@@ -34,17 +36,21 @@
 
 ## Anatomizing the language, indexing the novel
 
-+ *A Dictionary of the English Language* (1755): one of the first comprehensive English-language dictionaries, prepared by Samuel Johnson and a group of assistants between 1746 and 1755
-+ *Sir Charles Grandison* (1754), third (?) edition: epistolary novel by Samuel Richardson
++ *A Dictionary of the English Language* (1755): one of the first comprehensive English-language dictionaries, prepared by Samuel Johnson and a group of assistants between 1746 and 1755 (copying passages by hand or physically cutting them out of the source material)
++ *Sir Charles Grandison* (1754), first edition: epistolary novel by Samuel Richardson
 + Richardson was one of the only contemporary novelists extensively quoted in Johnson's dictionary
-+ Looking at *Sir Charles Grandison*, what are some ways you might read through? Where do the footnotes direct you?
-+ What do the tables/indices at the back do?
-+ Why include this kind of material in a novel?
++ Just flipping through, what do you notice about how *Grandison* is organized?
++ Where do the footnotes direct you? (see v.7, pp. 191 and 202)
++ See title page: why advertise the presence of an index? And why include an index? What does it do for the reader?
++ (Johnson requested an inclusion of an index to *Clarissa* in order to make it easier for “the busy, the aged, and the studious” to return to particular passages; Richardson added the index in a reprint, and a similar one appears here in *Grandison*, his next novel)
 + Definitions for "plication" and "quaggy" in Johnson: difficulties of life without keyword search
-+ How would you go about finding a passage in *Grandison* or *Clarissa* if you didn't know its exact location?
++ How would you go about finding a passage in *Grandison* or *Clarissa* if you didn't know its exact location? (see entries for "rakish" and "rampant", which successfully quote from Richardson)
++ Can you find a quote about rakes or rakishness in *Grandison* without having read the text?
 + "A study of *Clarissa* [another of Richardson's novels] alongside the Dictionary shows that nearly all of Johnson’s quotations from *Clarissa* were lifted directly from the table, the *index rerum*, with only a couple of notable exceptions." (Valenza, *How Literature Becomes Knowledge*, 219)
-+ What could you find if you were able to perform a keyword search on those texts? Is there anything you couldn't find, but might be able to find with the print book's finding aids?
++ What would change if you were able to perform a keyword search on those texts? Is there anything you couldn't find, but might be able to find with the print book's finding aids?
 + Do the finding aids in *Grandison* look like anything you've seen in digital materials?
++ What’s the physical experience of looking something up in one of these books like? (vs. using some form of digital search?)
++ In what space might you encounter books like these? A library? A home? How much did they cost, and who would have access? (vs. various types of digital texts?)
 + 18th c and contemporary anxieties about "index-learning"
 
 > A clearer sense of the role indices played for Johnson might be gained by noting that Pope’s mock praise of “index-learning” might be doubly applied to its modern equivalent—database (or search-engine) learning. The apparent comprehensiveness of a modern database, in which potentially no word is left uncataloged, thoroughly relieves the reader of the obligation to read the whole of anything. And although Swift worries that “large Indexes, and little Compendiums” might come to replace real study, and the *Dunciad*’s satire gestures towards the prevalence of such study (careless, slippery, and dangerous though it may be), these satires also, perhaps despite themselves, gesture towards the usefulness of index-learning. (Valenza 222)
@@ -57,14 +63,6 @@
 + How does this relate to the other materials we've looked at?
 + What use might it have served for its creator?
 + How does this compare to your (digital or non-digital) notetaking practices? To forms of online information organization like the ones we've talked about?
-
-## Wrap-up
-
-+ What’s the physical experience of looking something up in one of these books like?
-+ What information do you have access to? How quickly can you retrieve it? What would change if the books didn't include these finding aids?
-+ How could you navigate through these texts if you had digitized versions of them?
-+ Is there anything you can do with the print version that you couldn't with a digital one?
-+ In what space might you encounter a book like this? A library? A home? How much did it cost, and who would have access?
 
 #Maps and Monuments-- how we conceptualize city and expression
 
