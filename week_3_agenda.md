@@ -71,3 +71,46 @@ Is there anything you can do with the print version that you couldn't with a dig
 + Data in [CSV form](https://github.com/HCDigitalScholarship/Monument-Lab/blob/master/monument_lab_master.csv)
 + Data [mapped and organized by type and topic](http://www.monumentlab.com/research/)
 + Images of the proposals on [Flickr](https://www.flickr.com/photos/132387453@N08/albums/72157652636709478/with/17860011161/)
+
+#Maps and Monuments-- how we immortalize human expression
+
+##Key Concepts
+
+1. What is the relationship between a monument and the city it belongs in
+2. How does cartography change the way we conceptualize cities?
+3. What do we lose or gain from maps that are digitized
+4. What is a monument?
+5. How have monuments changed?
+6. What is the purpose of a monument? What can we learn from monuments?
+7. Monument Lab-- how does this project define monuments in the city of Philadelphia?
+8. What data have we gathered from Monument Lab?
+9. Group Project
+
+###William Penn City Plan of Philadelphia
++ What was the purpose of the map?
++ What is the data we can gather from this map?
++ Four squares of Philadelphia-- Rittenhouse (Southwest), Washington (Southeast), Logan (Northwest), and Franklin (Northeast)
++ What are the things that are most prominently featured in the Penn Plan of Philadelphia?
+
+###Interactive maps on the web
++ What is the most prominent feature of this map?
++ Can we see any traces of the Penn Plan in this map?
++ How does this map help us conceptualize Philadelphia as a city?
+
+###William Penn Statue
++ Is this a monument?
+  + Why is this a monument?
++ What part of this is a monument?
+
+###Monument Lab
++ Starting to think about the group project
+    + What is an appropriate monument for the city of Philadelphia?
+    + What is a good system that will help other people determine what an appropriate monument for the city of Philadelphia is?
+
+
+####Links
+Layers map: http://www.philageohistory.org/tiles/viewer/
+
+Categories map: http://gsg.phila.gov/map#id=4f870d9d24634270a142713b733fcc39
+
+William Penn on City Hall Monument: http://withart.visitphilly.com/artworks/william-penn/
