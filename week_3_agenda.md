@@ -66,21 +66,7 @@
 + Is there anything you can do with the print version that you couldn't with a digital one?
 + In what space might you encounter a book like this? A library? A home? How much did it cost, and who would have access?
 
-# Set up Reclaim domains
-
-+ What is the Cpanel? Applications? File manager?
-+ Make a landing page
-+ What happens when you drop in our HTML/CSS files from last week?
-+ Can you host an image on your site? What URL does it show up under?
-+ (More information on Reclaim basics [here](https://community.reclaimhosting.com/t/understanding-folder-structures-in-cpanel/295))
-
-# Group project
-
-+ Data in [CSV form](https://github.com/HCDigitalScholarship/Monument-Lab/blob/master/monument_lab_master.csv)
-+ Data [mapped and organized by type and topic](http://www.monumentlab.com/research/)
-+ Images of the proposals on [Flickr](https://www.flickr.com/photos/132387453@N08/albums/72157652636709478/with/17860011161/)
-
-#Maps and Monuments-- how we conceputalize city and expression
+#Maps and Monuments-- how we conceptualize city and expression
 
 ##Key Concepts
 
@@ -114,7 +100,10 @@
 + Starting to think about the group project
     + What is an appropriate monument for the city of Philadelphia?
     + What is a good system that will help other people determine what an appropriate monument for the city of Philadelphia is?
-
++ Existing Monument Lab data sets, for reference:
+  + Data in [CSV form](https://github.com/HCDigitalScholarship/Monument-Lab/blob/master/monument_lab_master.csv)
+  + Data [mapped and organized by type and topic](http://www.monumentlab.com/research/)
+  + Images of the proposals on [Flickr](https://www.flickr.com/photos/132387453@N08/albums/72157652636709478/with/17860011161/)
 
 ####Links
 Layers map: http://www.philageohistory.org/tiles/viewer/
@@ -122,3 +111,11 @@ Layers map: http://www.philageohistory.org/tiles/viewer/
 Categories map: http://gsg.phila.gov/map#id=4f870d9d24634270a142713b733fcc39
 
 William Penn on City Hall Monument: http://withart.visitphilly.com/artworks/william-penn/
+
+# Set up Reclaim domains
+
++ What is the Cpanel? Applications? File manager?
++ Make a landing page
++ What happens when you drop in our HTML/CSS files from last week?
++ Can you host an image on your site? What URL does it show up under?
++ (More information on Reclaim basics [here](https://community.reclaimhosting.com/t/understanding-folder-structures-in-cpanel/295))
