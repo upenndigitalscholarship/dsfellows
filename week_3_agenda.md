@@ -35,7 +35,6 @@
 + Looking at *Sir Charles Grandison*, what are some ways you might read through? Where do the footnotes direct you?
 + What do the tables/indices at the back do?
 + Where do we think Johnson found his quotes?
-+ What are some ways one might read through *Clarissa*? Where do the footnotes direct you?
 + Definitions for "plication" and "quaggy" in Johnson: difficulties of life without keyword search
 + "A study of *Clarissa* [another of Richardson's novels] alongside the Dictionary shows that nearly all of Johnson’s quotations from *Clarissa* were lifted directly from the table, the *index rerum*, with only a couple of notable exceptions." (Valenza, *How Literature Becomes Knowledge*, 219)
 + Analogy to database/keyword search?
@@ -46,6 +45,7 @@
 
 > "Aristotle suggests that readers should “select . . . from the written handbooks of argument, and should draw up sketch-lists of them upon each several kind of subject, putting them down under separate headings, e.g. ‘On Good,’ or ‘On Life’-and that ‘On Good’ should deal with every form of good, beginning with the category of essence.” In its medieval incarnation, students (and scholars) would copy and subsequently memorize quotations gleaned from their read- ing, arranging them under various general topics. Locke recommended the same (with some suggested headings) in his seventeenth-century educational writings. The quotations thus identified could then serve as evidence for an argument." (Valenza 220)
 
++ We won't have time to look at any today, but Penn has some in its collections; see also these [digitized](http://ocp.hul.harvard.edu/reading/commonplace.html) commonplace books
 + How does this relate to the other materials we've looked at?
 + What use might it have served for its creator?
 + How does this compare to your (digital or non-digital) notetaking practices? To forms of online information organization like the ones we've talked about?
