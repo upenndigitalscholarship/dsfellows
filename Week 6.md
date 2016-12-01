@@ -1,4 +1,4 @@
-#Session 4
+#Week 6
 
 ##OpenRefine
 - What is OpenRefine
